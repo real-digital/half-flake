@@ -1,5 +1,9 @@
 # HalfFlake
 
+[![Latest Stable Version](https://img.shields.io/packagist/v/real-digital/half-flake.svg)](https://packagist.org/packages/real-digital/half-flake)
+[![Build Status](https://travis-ci.org/real-digital/half-flake.svg?branch=master)](https://travis-ci.org/real-digital/half-flake)
+[![Coverage Status](https://coveralls.io/repos/github/real-digital/half-flake/badge.svg?branch=master)](https://coveralls.io/github/real-digital/half-flake?branch=master)
+
 HalfFlake is a PHP library for distributive generating unique ID numbers using
 Twitter's [Snowflake](https://github.com/twitter-archive/snowflake/blob/snowflake-2010/README.mkd) Algorithm.
 
